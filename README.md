@@ -1,4 +1,4 @@
-# Pandas Mini Project 01
+# Pandas Project Project
 
 This project involves performing exploratory data analysis (EDA) using **Pandas**, **NumPy**, and Python, focusing on analyzing student grades in a university course.
 
